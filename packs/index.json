@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "packs": [
+    {
+      "id": "WA",
+      "name": "Washington",
+      "version": 1,
+      "bytes": 194558,
+      "sha256": "95f2796f9bc79947314d42492db892cf6cb41c0e083036684045e609344916a6",
+      "url": "https://faira-app.github.io/packs/WA-v1.json"
+    }
+  ]
+}
